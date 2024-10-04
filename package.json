@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "node": "^20.18.0",
+    "recharts": "^2.12.7",
+    "si": "^2.0.0",
+    "systeminformation": "^5.23.5"
+  }
+}
